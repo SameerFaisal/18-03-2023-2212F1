@@ -1,0 +1,10 @@
+.fa-shopping-cart:hover{
+    color:red;
+    
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+}
